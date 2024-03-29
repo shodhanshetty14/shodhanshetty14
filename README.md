@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shodhanshetty14
 - 👀 I’m interested in Web devlopment and Python Programming 
-- 🌱 I’m currently learning Flask, Django and React
-- 💞️ I’m looking to collaborate on Python Projects and Web dev 
+- 🌱 I’m good with Flask, Django and React
+- 💞️ I’m looking to collaborate on Python Projects and Web Applications 
 - 📫 How to reach me shodhanshetty1442@gmail.com
 
 <!---
